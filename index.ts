@@ -117,6 +117,7 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+      otro cambio();
   }
   main();
 
